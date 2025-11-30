@@ -48,7 +48,7 @@ const CodeRunnerShowcase = () => {
   };
 
   return (
-    <section className="relative py-20 px-4 overflow-hidden">
+    <section id="code-runner" className="relative py-20 px-4 overflow-hidden">
       <div className="container mx-auto max-w-7xl">
         <div className="text-center mb-16 animate-fade-in">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-6">

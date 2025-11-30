@@ -33,7 +33,7 @@ const stats = [
 
 const CommunityStats = () => {
   return (
-    <section className="relative py-20 px-4 overflow-hidden">
+    <section id="community" className="relative py-20 px-4 overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-b from-background via-primary/5 to-background" />
       
       <div className="container relative z-10 mx-auto max-w-7xl">
