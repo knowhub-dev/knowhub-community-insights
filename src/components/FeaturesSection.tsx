@@ -48,7 +48,7 @@ const features = [
 
 const FeaturesSection = () => {
   return (
-    <section className="relative py-20 px-4 overflow-hidden">
+    <section id="features" className="relative py-20 px-4 overflow-hidden">
       <div className="container mx-auto max-w-7xl">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
